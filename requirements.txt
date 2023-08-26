@@ -1,0 +1,2 @@
+customtkinter==5.2.0
+darkdetect==0.8.0
